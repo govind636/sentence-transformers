@@ -24,9 +24,6 @@ setup(
         'torch>=1.6.0',
         'torchvision',
         'numpy',
-        'scikit-learn',
-        'scipy',
-        'nltk',
         'sentencepiece',
         'huggingface-hub>=0.4.0'
     ],
